@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KLAD08_MenuAndSnackBar</string>
+    <string name="home">Home</string>
+    <string name="share">Share</string>
+    <string name="home_context">Context Menu Click Home</string>
+    <string name="share_context">Context Menu Click Share</string>
+    <string name="home_option">Option Menu Click Home</string>
+    <string name="share_option">Option Menu Click Share</string>
+    <string name="snack_bar">This is a Snackbar</string>
+    <string name="on_click">Snackbar - OnClick</string>
+    <string name="custom_on_click">Custom Snackbar - OnClick</string>
+    <string name="click">On Click</string>
+    <string name="custom_snack_bar">Custom Snack Bar</string>
+    <string name="snackbar">Snack Bar</string>
+    <string name="context_menu">Context Menu</string>
+    <string name="textview">TextView</string>
+</resources>
