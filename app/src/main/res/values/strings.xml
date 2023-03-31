@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">KLAD08_MenuAndSnackBar</string>
+    <string name="app_name">Menu SnackBar</string>
     <string name="home">Home</string>
     <string name="share">Share</string>
     <string name="home_context">Context Menu Click Home</string>
